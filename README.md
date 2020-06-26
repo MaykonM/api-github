@@ -1,5 +1,5 @@
-# api-github
-Projeto para consumir a api do github para listar Repositórios e suas Issues
+# API-Github
+Projeto para consumir a api do github, listar os Repositórios e suas Issues
 
 Pode filtrar as Issues pela opção Abertas e Fechadas.
 
