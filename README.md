@@ -5,4 +5,4 @@ Pode filtrar as Issues pela opção Abertas e Fechadas.
 
 Feito em Reactjs e armazena atraves do localstorage.
 
-https://www.linkedin.com/posts/maykonlopesmarcolino_rocketseat-nlw-ecoleta-activity-6674861887181602816-T4UR
+[![Vídeo de apresentação do projeto em Reactjs para consumo de API](http://img.youtube.com/vi/V70aiTBG-B8/0.jpg)](http://www.youtube.com/watch?v=V70aiTBG-B8 "Vídeo de apresentação do projeto em Reactjs para consumo de API")
